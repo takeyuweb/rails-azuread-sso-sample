@@ -1,0 +1,8 @@
+# Application ID
+export AZURE_CLIENT_ID=
+# Application Key
+export AZURE_CLIENT_SECRET=
+# Active Directory ID
+export AZURE_TENANT_ID=00000000-0000-0000-0000-000000000000
+# Application Reply URL
+export AZURE_REDIRECT_URI=https://rails-azuread-sso-sample.herokuapp.com/
